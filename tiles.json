@@ -167,5 +167,5 @@
       "maxzoom": 14
     }
   ],
-  "tiles": ["https://shogohirasawa.github.io/vector-tile-builder/zxy/{z}/{x}/{y}.pbff"]
+  "tiles": ["https://shogohirasawa.github.io/vector-tile-builder/zxy/{z}/{x}/{y}.pbf"]
 }
