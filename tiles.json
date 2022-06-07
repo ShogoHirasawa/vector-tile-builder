@@ -9,17 +9,8 @@
   "format": "pbf",
   "minzoom": 0,
   "maxzoom": 14,
-  "bounds": [
-    1.412368,
-    42.4276,
-    1.787481,
-    42.65717
-  ],
-  "center": [
-    139.70746,
-    35.76007,
-    7
-  ],
+  "bounds": [1.412368, 42.4276, 1.787481, 42.65717],
+  "center": [139.70746, 35.76007, 7],
   "vector_layers": [
     {
       "id": "place",
@@ -176,7 +167,5 @@
       "maxzoom": 14
     }
   ],
-  "tiles": [
-    "https://yuiseki.github.io/vector-tile-builder/zxy/{z}/{x}/{y}.pbf"
-  ]
+  "tiles": ["https://yuiseki.github.io/vector-tile-builder/zxy/{z}/{x}/{y}.pbf"]
 }
